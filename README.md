@@ -1,0 +1,1 @@
+# SQL-Server-2022-consultas-avancadas
