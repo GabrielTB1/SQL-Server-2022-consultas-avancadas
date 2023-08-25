@@ -1,4 +1,4 @@
-# SQL-Server-2022-consultas-avancadas
+# SQL Server 2022 Consultas Avançadas
 
 <h1>Utilizando consultas avançadas em SQL Server.</h1> 
 
@@ -22,19 +22,17 @@
 
 ## Etapas do projeto
 
-:heavy_check_mark: Conhecendo a instalação dos componentes necessários para utilizar o SQL Server 22.
+:warning: Exibindo dados de colunas de uma tabela.
 
-:heavy_check_mark: Entendendo a criação da base de dados e das tabelas.
+:warning: Utilizando filtros simples e complexos na saída dos dados.
 
-:heavy_check_mark: Definindo a chave primária das tabelas.
+:hwarning: Agrupando dados de saída.
 
-:heavy_check_mark: Utilizando três diferentes maneiras de inserir informações em tabelas.
+:warning: Filtrando dados de forma agrupada.
 
-:heavy_check_mark: Consultando de informações específicas usando filtros com WHERE.
+:warning: Praticando a junção e união de tabelas.
 
-:heavy_check_mark: Filtrando a consulta usando operadores lógicos em diferentes tipos de colunas.
-
-:heavy_check_mark: Entendendo o processo de deletar e atualizar informações usando SQL.
+:warning: Verificando funções numéricas, de textos e de datas disponibilizadas pelo SQL Server.
 
 ## Pré-requisitos
 
