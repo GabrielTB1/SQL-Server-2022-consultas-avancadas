@@ -26,7 +26,7 @@
 
 :warning: Utilizando filtros simples e complexos na saída dos dados.
 
-:hwarning: Agrupando dados de saída.
+:warning: Agrupando dados de saída.
 
 :warning: Filtrando dados de forma agrupada.
 
